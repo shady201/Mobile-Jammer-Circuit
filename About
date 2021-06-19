@@ -1,0 +1,21 @@
+Cell phone jammer is an electronic device that blocks transmission of signals between a cell phone and a base station. By using the same frequency as a mobile handset, the cell phone jammer creates strong interference for communication between the caller and receiver. It is effective in blocking transmission of signals from networks including UMTS, 3G, CDMA, GSM and PHS.
+
+Mobile phones operate at different frequency bands in different countries. For Canada, the 1900 MHz band is the primary band, particularly for urban areas. 850 MHz is used as a backup in rural areas. USA uses 850 and 1900 MHz bands, depending on the area. Europeans tend to use the GSM 900 and 1800 bands as standard. Middle East, Africa, Asia and Oceania also use these frequency bands. In Russia and some other countries, local carriers have licenses for 450 MHz frequency to provide CDMA coverage.
+
+The use of different frequencies makes it difficult to have a jammer for all frequencies. However, the below mentioned formula can be used to calculate the required values.
+
+F= 1/ (2*pi*sqrt (L1*C1))
+Depending on the frequencies you need to block, the values of the inductor (L1) and capacitor (C1) can be altered.
+
+For example, if mobile phones at your area work at 450 MHz, you need to generate 450 MHz with some noise to act as the blocking signal. Now the cell phone receiver will not be able to understand, which signal to receive. We have successfully blocked cell phone signals.
+
+Here, 450MHz is the tuning frequency. Cell phone jammers for other frequency ranges are designed similarly. However, the signal range is very weak. Thus, this circuit works only for a range of 100 m.
+
+
+Working in brief:
+For any jammer circuit, it’s essential to have three important subcircuits.
+
+RF amplifier
+Voltage Controlled Oscillator
+Tuning circuit
+These 3 circuits, when combined together form an efficient cell phone jammer circuit.
